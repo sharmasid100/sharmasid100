@@ -1,6 +1,8 @@
-## Hi there 👋
+About Me
+I am currently focused on developing my skills in Artificial Intelligence.
 
-- 🔭 I’m currently working on developing my AI skills
-- 🌱 I’m currently learning Neural Netwroks
-- 💬 Ask me anything about me
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/s-sidharth-sharma-995504258/)
+Actively learning and exploring concepts in Neural Networks and Deep Learning.
+
+Open to discussions related to AI, technology, and career opportunities.
+
+You can reach me via LinkedIn.(https://www.linkedin.com/in/s-sidharth-sharma-995504258/)
